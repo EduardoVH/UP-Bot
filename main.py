@@ -16,4 +16,4 @@ for i in range(len(cogs)):
     cogs[i].setup(client)
 
 
-client.run("OTQ5MTg2NzQ0NzY5NzE2MjY0.YiGtCg.edTnAUBN-FzIbitFsXSesydtp9E")
+client.run("") #Your token
